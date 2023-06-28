@@ -7,3 +7,7 @@ I have mentioned my kaggle notebook URL. Kindly open this notebook with your kag
 
 URL for project model:
 https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-n2
+
+# warriorz folder
+
+this folder contains website prototype for the project.
