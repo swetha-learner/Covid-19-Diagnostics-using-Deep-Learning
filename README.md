@@ -5,8 +5,8 @@ The proposed system is designed to diagnose the virus by analyzing the images of
 # DL model file
 I have mentioned my kaggle notebook URL. Kindly open this notebook with your kaggle account.
 
-URL for project model:
-https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-n2
+## URL for project model:
+https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-warriorz
 
 # warriorz folder
 
