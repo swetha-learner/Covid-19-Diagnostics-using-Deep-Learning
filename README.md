@@ -7,6 +7,7 @@ I have mentioned my kaggle notebook URL. Kindly open this notebook with your kag
 
 ## 👩‍💻 Source Code 
 The link to the Kaggle repository source code 👇
+
 [Covid-19 Diagnostics using Deep Learning](https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-warriorz)
 
 # Warriorz folder
