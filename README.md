@@ -1,13 +1,14 @@
-# Covid-19-Diagnostics-using-Deep-Learning
-The proposed system is designed to diagnose the virus by analyzing the images of chest xray
-
+# Warriorz - Covid-19-Diagnostics-using-Deep-Learning
+The proposed system is designed to diagnose the virus by analyzing the images of chest xray.
+It can be used as a digital diagnosing tool by physicians.
 
 # DL model file
 I have mentioned my kaggle notebook URL. Kindly open this notebook with your kaggle account.
 
-## URL for project model:
-https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-warriorz
+## 👩‍💻 Source Code 
+The link to the Kaggle repository source code 👇
+[](https://www.kaggle.com/code/swethaudayakumar3990/covid-19-classification-warriorz)
 
-# warriorz folder
+# Warriorz folder
 
-this folder contains website prototype for the project.
+This folder contains website prototype for the project.
